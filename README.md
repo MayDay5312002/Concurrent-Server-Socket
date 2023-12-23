@@ -16,5 +16,6 @@ The requests are:
 
 <h2>Instuctions</h2>
 1) Compile and then run the Server.java. To run this file you must pass in the port number that the server machine will listen to. After this, the Server is already set up and is ready for a client request.<br>
-2) Compile and then run the Client.java. You will be prompted to type in the port number and IP address of the server (Note: The port number should be the same as the port you passed in Server.java). After that, you will be given the 6 requests available.
+2) Compile and then run the Client.java. You will be prompted to type in the port number and IP address of the server (Note: The port number should be the same as the port you passed in Server.java). <br>
+After that, you will be given the 6 requests available.
 When you pick your option, you will be asked for the number of requests you are sending.(Note: sending a high number of requests will cause diminishing performance and sometimes will causes crashes)
