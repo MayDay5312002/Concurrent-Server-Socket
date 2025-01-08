@@ -1,4 +1,4 @@
-<h1>Concurrent-Server Socket</h1>
+<h1>Concurrent-Server Socket by Luke Evarretta & James Ngo</h1>
 Note: Server.java Only works for Linux machines or machines that can run Linux commands. 
 These two files are what are needed for this client-server system. 
 Server.java is the program that will be running on the server machine.
